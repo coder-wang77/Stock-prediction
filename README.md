@@ -1,1 +1,1 @@
- This is a stocks prediction model that uses LogisticRegression and KNeighborsClassifier to do prediction. It is still at the infant stage and i will be making changes frequently and updating the better versions as i learn more ways to improve my model. Stay tuned!
+# new-folder
